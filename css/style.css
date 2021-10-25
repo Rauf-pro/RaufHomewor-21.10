@@ -1,0 +1,51 @@
+.age-calc {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px;
+}
+
+.age-calc .age-box {
+  margin-right: 10px;
+}
+
+.drag_drop .draggable {
+  cursor: pointer;
+  border: 1px solid;
+  width: 250px;
+  height: 142px;
+}
+
+.drag_drop .draggable img {
+  max-width: 100%;
+}
+
+#thirdTask .dropField {
+  border: 1px solid green;
+  border-radius: 20px;
+  width: 250px;
+  height: 200px;
+  max-width: 100%;
+}
+
+#thirdTask .dropField i {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+#thirdTask .dropField p {
+  margin-top: 40px;
+  color: blue;
+  margin-left: 10px;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

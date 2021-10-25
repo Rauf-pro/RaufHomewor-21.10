@@ -1,0 +1,74 @@
+
+//Task-1 Calculating Life Statistics
+
+.age-calc {
+    display: flex;
+    padding: 10px;
+
+
+    .age-box {
+        margin-right: 10px;
+
+    }
+
+}
+
+// Task-2 
+
+.drag_drop{
+    // margin-bottom: 20px;
+    // border: 1px solid;
+    // width: 250px;
+    // height: 140px;
+    // justify-content: center;
+    // align-items: center;
+
+    .draggable{
+        
+        cursor: pointer;
+        border: 1px solid;
+        width: 250px;
+        height: 142px;
+
+        img{
+        max-width: 100%;
+        }
+    }
+
+}
+
+//Task 3 Move files from desktop to web
+
+#thirdTask{
+
+    .dropField{
+        
+        
+        border: 1px solid green;
+        border-radius: 20px;
+        width: 250px;
+        height: 200px;
+        max-width: 100%;
+
+        i{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 30px;
+            margin-top: 20px;
+
+        }
+        p{
+            margin-top: 40px;
+            color: blue;
+            margin-left: 10px;
+            text-align: center;
+
+        }
+    }
+
+}
+
+
+
+
